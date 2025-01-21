@@ -1,0 +1,14 @@
+.increase-button,.decrease-button{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.increase-button{
+    background-color: rgb(10, 224, 10);
+}
+.decrease-button{
+    background-color: red;
+}
+.increase-button:hover,.decrease-button:hover{
+    opacity: 0.8;
+}
